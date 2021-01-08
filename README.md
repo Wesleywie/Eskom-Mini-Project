@@ -16,5 +16,15 @@ Output:
 Efficient Load balancing of Coal Stations. 
 Based on Load Centre Demand
 
+Implementation:
+
+Capture: Input Coal Stations , Weights, Costs.
+
+Process: Creates graph, traverses and Calculates Load balance.
+
+Output: Constructed graph.Information needed for solution.
+
+
+
 
 
